@@ -1,0 +1,6 @@
+"""Application configuration settings"""
+APP_NAME = "SimpleProject"
+VERSION = "1.0.0"
+AUTHOR = "Developer"
+LICENSE = "MIT"
+DESCRIPTION = "A simple Python project template"
